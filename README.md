@@ -1,5 +1,5 @@
 # post_get_images_Wordpress
-Plugin para Wordpress que pega todas as imagens que estão dentro do content de um post
+Função para Wordpress que pega todas as imagens que estão dentro do content de um post.
 
 Modo de Usar
 
